@@ -1,4 +1,4 @@
-Click [here](https://dev.d2zop3w9kkndgs.amplifyapp.com/) to view the deployed site.https://dev.d2zop3w9kkndgs.amplifyapp.com/
+Click [here](https://dev.d2zop3w9kkndgs.amplifyapp.com/) to view the deployed site.
 
 # Getting Started with Create React App
 
