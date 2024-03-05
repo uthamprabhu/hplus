@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import '@aws-amplify/ui-react/styles.css';
+import { withAuthenticator } from '@aws-amplify/ui-react'
+import Footer from './component/Footer';
+import Guarantee from './component/Guarantee';
+import Header from './component/Header';
+import History from './component/History';
+import People from './component/People';
+import Products from './component/Products';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+
+  render() {
+    return (
+      <div className="App">
+        <Header />
+        <History />
+        <Products />
+        <Guarantee />
+        <People />
+        <Footer />
+      </div>
+    );
+  }
 }
 
-export default App;
+export default withAuthenticator(App);

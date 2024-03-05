@@ -1,0 +1,74 @@
+[
+  {
+    "dynamicSlug": "vitamin-a.jpg",
+    "productName": "Vitamin A"
+  },
+  {
+    "dynamicSlug": "vitamin-bcomplex.jpg",
+    "productName": "Vitamin B Complex"
+  },
+  {
+    "dynamicSlug": "mineralwater-blueberry.jpg",
+    "productName": "Blueberry Mineral Water"
+  },
+  {
+    "dynamicSlug": "vitamin-c.jpg",
+    "productName": "Vitamin C"
+  },
+  {
+    "dynamicSlug": "proteinbar-chocolate.jpg",
+    "productName": "Chocolate Protein Bar"
+  },
+  {
+    "dynamicSlug": "vitamin-calcium.jpg",
+    "productName": "Calcium Vitamin"
+  },
+  {
+    "dynamicSlug": "vitamin-d.jpg",
+    "productName": "Vitamin D"
+  },
+  {
+    "dynamicSlug": "vitamin-flaxseed-oil.jpg",
+    "productName": "Flaxseed Oil Vitamin"
+  },
+  {
+    "dynamicSlug": "vitamin-iron.jpg",
+    "productName": "Iron Vitamin"
+  },
+  {
+    "dynamicSlug": "mineralwater-lemonlime.jpg",
+    "productName": "Lemon Lime Mineral Water"
+  },
+  {
+    "dynamicSlug": "vitamin-magnesium.jpg",
+    "productName": "Magnesium Vitamin"
+  },
+  {
+    "dynamicSlug": "vitamin-multi.jpg",
+    "productName": "Multi-vitamin"
+  },
+  {
+    "dynamicSlug": "proteinbar-peanutbutter.jpg",
+    "productName": "Peanut Butter Protein Bar"
+  },
+  {
+    "dynamicSlug": "mineralwater-strawberry.jpg",
+    "productName": "Strawberry Mineral Water"
+  },
+  {
+    "dynamicSlug": "proteinbar-lemon.jpg",
+    "productName": "Lemon Protein Bar"
+  },
+  {
+    "dynamicSlug": "mineralwater-orange.jpg",
+    "productName": "Orange Mineral Water"
+  },
+  {
+    "dynamicSlug": "mineralwater-peach.jpg",
+    "productName": "Peach Mineral Water"
+  },
+  {
+    "dynamicSlug": "mineralwater-raspberry.jpg",
+    "productName": "Raspberry Mineral Water"
+  }
+]
